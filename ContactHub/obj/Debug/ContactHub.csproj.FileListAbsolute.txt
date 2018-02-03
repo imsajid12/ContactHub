@@ -1,0 +1,10 @@
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\bin\Debug\ContactHub.exe.config
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\bin\Debug\ContactHub.exe
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\bin\Debug\ContactHub.pdb
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\obj\Debug\ContactHub.csprojResolveAssemblyReference.cache
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\obj\Debug\ContactHub.frmContactHub.resources
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\obj\Debug\ContactHub.Properties.Resources.resources
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\obj\Debug\ContactHub.csproj.GenerateResource.Cache
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\obj\Debug\ContactHub.csproj.CoreCompileInputs.cache
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\obj\Debug\ContactHub.exe
+C:\Users\imsajid12\Desktop\Practise\ContactHub\ContactHub\obj\Debug\ContactHub.pdb
